@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<!DOCTYPE TEI.2 system 'tei2.dtd' [<!ENTITY % TEI.spoken 'INCLUDE' >]>
+	
+<teiHeader>
+	
+	<sourceDesc>
+		<recordingStmt>
+		 <recording type="audio" dur="P90M">
+
+		  <respStmt>
+		   <resp>Location recording by</resp>
+		   <name> NAME </name>
+		  </respStmt>
+		  
+		  <respStmt>
+		      <resp>interviewee</resp>
+		      <name> NAME </name>
+		  </respStmt>
+
+		  <equipment>
+		   <p> EQUIPMENT </p>
+		  </equipment>
+
+		  <date> DATE </date>
+		  
+		  <placeName> PLACE </placeName>
+
+		 </recording>
+
+		</recordingStmt>
+	</sourceDesc>
+		
+</teiHeader>	 
+
+<text>
+
+TEXT
+
+</text>
+</TEI>
